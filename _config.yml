@@ -124,7 +124,7 @@ author:
       url: "https://github.com/bbyik-k"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bbyik_k/"
+      # url: "https://www.instagram.com/bbyik_k/"
 
 # Site Footer
 footer:
