@@ -3,7 +3,7 @@ title: "[CSS] Flexbox"
 excerpt: "Flexbox Froggy 게임을 통한 CSS 학습"
 
 categories:
-  - JSP
+  - CSS
 tags:
   - [CSS, Html, FrontEnd]
 
