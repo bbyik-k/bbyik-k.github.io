@@ -109,3 +109,8 @@ last_modified_at: 2022-02-03
   align-content: space-between;
 }
 ```
+
+### 추가
+
+- `flex-grow`: Flex Item의 증가 너비 비율을 설정
+  - 1로 설정시 화면에 꽉 채움
