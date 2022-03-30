@@ -29,3 +29,5 @@ REST: Representational state transfer
 4. DELETE (삭제) 등등
 
 사용법에 대한 문서화가 잘 되어져 있음.
+
+GraphQL
