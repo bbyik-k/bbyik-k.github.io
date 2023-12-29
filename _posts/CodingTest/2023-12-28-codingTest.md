@@ -62,7 +62,7 @@ let input = fs
 
 ![Alt text](image.png)
 
-### 아래는 문제 풀이 시 사용되는 필수 메서드들이다.
+### 필수 메서드 목록
 
 #### filter()
 
