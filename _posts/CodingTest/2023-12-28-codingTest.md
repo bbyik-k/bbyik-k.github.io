@@ -113,3 +113,31 @@ let filteredArr = arr.filter(function (element) {
 
 console.log(filteredArr);
 ```
+
+#### map()
+
+- `map(Number)`
+
+#### Math.max() / Math.fa-minus()
+
+#### split()
+
+#### reduce()
+
+#### Math.floor() / Math.ceil() / Math.round()
+
+- ... spread 연산자
+
+#### indexOf()
+
+#### includes()
+
+#### repeat()
+
+- 문자열 반복
+
+#### 특정 자릿수 반올림 - Number.toFixed()
+
+#### 배열 요소 뒤집기 - reverse()
+
+#### 배열 요소 합치기 - join()
