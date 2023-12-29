@@ -60,7 +60,7 @@ let input = fs
 
 해결한 문제들은 [Chrome extension](https://chromewebstore.google.com/detail/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko&utm_source=ext_sidebar)을 이용하여 자동으로 [Github](https://github.com/bbyik-k/Baekjoon)에 업로드 되도록 해두었다.
 
-![Alt text](image.png)
+![Alt text](https://github.com/bbyik-k/bbyik-k.github.io/assets/47810773/e970e8e5-c1d3-4be3-8a53-4f7171cacd00)
 
 ### 필수 메서드 목록
 
