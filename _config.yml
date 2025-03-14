@@ -20,7 +20,7 @@ title: "bbyik-k Blog"
 title_separator: "|"
 subtitle: # site tagline that appears below site title in masthead
 name: "bbyik-k"
-description: "Dev & 일상 블로그"
+description: "Dev blog"
 # url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url: "https://bbyik-k.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -105,8 +105,8 @@ analytics:
 author:
   name: "bbyik-k"
   # avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  avatar: "https://user-images.githubusercontent.com/47810773/149076050-af213cef-98b2-4f41-ab0f-1adfec1a71a9.jpg"
-  bio: "Dev & 일상 블로그"
+  avatar: "/favicon_io/profileCat.png"
+  bio: "Dev blog"
   # location: "Seoul, South Korea"
   email:
   links:
@@ -127,7 +127,7 @@ author:
       url: "https://github.com/bbyik-k"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/bbyik_k/"
+      # url: ""
 
 # Site Footer
 footer:
